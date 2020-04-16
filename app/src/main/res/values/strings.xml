@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="info">Info</string>
+    <string name="info_description">Information about this video</string>
+    <string name="info_uri" translatable="false">https://peach.blender.org/</string>
+    <string name="fast_forward">Fast forward</string>
+    <string name="fast_rewind">Fast rewind</string>
+    <string name="minimize">Minimize</string>
+    <string name="enter_picture_in_picture">Enter Picture-in-Picture mode</string>
+    <string name="switch_custom">Switch to custom actions </string>
+    <string name="switch_media_session">Switch to using MediaSession</string>
+    <string name="title_bigbuckbunny">Big Buck Bunny</string>
+</resources>
